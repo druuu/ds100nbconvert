@@ -1,10 +1,10 @@
 from setuptools import setup
 
 setup(name='ds100nbconvert',
-      version='0.2',
+      version='0.3',
       description='dsin100days custom nbconvert, copied from nbextensions',
       url='',
-      install_requires=['nbconvert'],
+      install_requires=['nbconvert', 'lxml'],
       author='dinesh',
       author_email='dinesh@micropyramid.com',
       license='LICENCE',

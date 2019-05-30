@@ -1,4 +1,10 @@
-Filtered
+NBConvert with html_embed feature
 ===========
 
-Filtered library
+Converts ipynb to html with images embed as base64 format.
+
+
+# install
+```sh
+pip install ds100nbconvert
+```
